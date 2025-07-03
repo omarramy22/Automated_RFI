@@ -1,5 +1,5 @@
 
-# 📄 README: RFI Auto-Responder – EDECS AI & Tech Internship Case Study
+# 📄 README: RFI Auto-Responder – EDECS
 
 ## 🧠 Overview
 
