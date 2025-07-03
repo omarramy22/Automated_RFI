@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 
 # Create OpenAI client for project mode
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="sk-xxxxxxxxxxxxxxx") # Replace with your actual OpenAI API key
 
 LOG_FILE = "rfi_log.json"
 
